@@ -1,0 +1,20 @@
+div[data-list-item-id="people___xdd"]{
+    display: none !important;
+}
+.listRow__9d78f:has(.wrapper__44b0c[aria-label^="xdd"]){
+    display: none !important;
+}
+.nowPlayingColumn__133bf{
+    display: none;
+}
+[class^=interactive_bf202d]:has(
+
+[href="/store"],
+
+[href="/shop"]
+) {
+display: none;
+}
+.sectionTitle__5ec2f{
+    display: none;
+}
